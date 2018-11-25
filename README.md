@@ -35,11 +35,12 @@ On Mac:
 ```
 > . venv/bin/activate
 ```
-Install the following prerequisites using pip:
+Install the following prerequisites on your virtual environment using pip:
 ```
 > pip install flask
 > pip install flask-sqlalchemy
 > pip install flask_marshmallow
+> pip install marshmallow-sqlalchemy
 > pip install flask_cors
 ```
 
