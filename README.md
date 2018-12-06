@@ -1,5 +1,6 @@
 # flappybirdML
-This project uses Machine Learning in Flappy Bird. It is not finished; currently, the functionality is to merely collect data, as a lot of data is required.
+This project uses Machine Learning in Flappy Bird. It is not finished; currently, the functionality is to merely collect data, as a lot of data is required. Feel free for any pull requests; however, keep in mind that this is a personal project for school. 
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
